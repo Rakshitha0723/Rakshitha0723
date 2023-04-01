@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rakshitha0723
-- 👀 I’m interested in .learningcoding,Building apps..
+- 👀 I’m interested in .coding,web designing,Building apps..
 - 🌱 I’m currently learning .full stack web development..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
